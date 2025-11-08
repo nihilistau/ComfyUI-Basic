@@ -1,0 +1,2 @@
+# Runtime requirements for ComfyUI-Basic
+# This file intentionally minimal for CI. Add runtime dependencies here as needed.
